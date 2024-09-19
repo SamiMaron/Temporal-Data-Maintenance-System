@@ -7,7 +7,6 @@ This project is a GUI application built using `tkinter` for managing temporal da
 - [Features](#features)
 - [Tools](#tools)
 ## Photo
-You can add a photo of the application or its interface here:
 ![Application Photo](Screenshot 2024-09-19 105700.png)
 
 ## Features
