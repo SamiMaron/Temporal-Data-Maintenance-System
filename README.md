@@ -7,7 +7,7 @@ This project is a GUI application built using `tkinter` for managing temporal da
 - [Features](#features)
 - [Tools](#tools)
 ## Photo
-![Application Photo](Screenshot 2024-09-19 105700.png)
+![Application Photo](Screenshot%202024-09-19%20105700.png)
 
 ## Features
 - **Search Data**: Search for data based on first name, last name, and lonic number.
